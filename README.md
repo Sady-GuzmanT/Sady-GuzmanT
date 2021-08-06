@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @MatiasRGT
 - 👀 I’m interested in Cats
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me #2570 Discord
+- 📫 How to reach me: #2570 Discord
+- 👹 All of my repositories are private
+
 
 <!---
 MatiasRGT/MatiasRGT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
