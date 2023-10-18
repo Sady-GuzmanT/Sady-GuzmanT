@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatiasRGT
-- 🌱 Languages: C
+- 🌱 Languages: C, Java, Python, SQL
 
 
 <!---
