@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MatiasRGT
 - 🌱 Languages: C, Java, Python, SQL
+- 📖 Degree: Undergraduate
 
 
 <!---
