@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MatiasRGT 🇨🇱
+- 🌎 Spanish and English
 - 😅 I write good enough code sometimes
 - 🌱 Languages: C, Python, SQL, Java
 - 📖 Degree: CS Undergraduate
